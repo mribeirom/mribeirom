@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1 align="center">⚡ Hi, I'm Marcelo Ribeiro ⚡</h1>
 
-<!--
-**mribeirom/mribeirom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> 👨‍💻 About me </h3>
 
-Here are some ideas to get you started:
+<img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a **Full-Stack Web Developer** focused on building modern applications.
+
+I'm currently pursuing a degree in **Systems Analysis and Development**.
+
+<h3>🛠️ Tech Stack </h3>
+
+Languages: JavaScript, TypeScript, Python, PHP
+
+Front-end: React, Vite, Tailwind CSS, Bootstrap, HTML, CSS
+
+Back-end: Node.js, Bun.js, Flask, Django, REST API
+
+Database: MySQL, MongoDB, SQLite
+
+<h3>🌎 Contact </h3>
+
+[marcelormartins0@gmail.com](mailto:marcelormartins0@gmail.com)  
+[linkedin.com/in/marceloribeiromartins](https://linkedin.com/in/marceloribeiromartins)
